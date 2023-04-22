@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/tmitsuoka0423/ai-maker-client-nodejs#readme",
   "dependencies": {
-    "axios": "^0.21.0",
+    "axios": "^0.21.2",
     "dotenv": "^8.2.0"
   }
 }
